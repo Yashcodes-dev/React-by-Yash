@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helevatica neue';
+}
+
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+body{
+    height: 100vh;
+    background-color: #111;
+}

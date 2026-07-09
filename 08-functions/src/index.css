@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+
+body{
+  height: 100vh;
+  background-color: #111;
+}
+
+input{
+  margin: 12px;
+  background-color: #5b5b5b;
+  border: none;
+  padding: 3px 5px;
+  height: 25px;
+  border-radius: 5px;
+  outline: none;
+  color: #fff;
+
+}
